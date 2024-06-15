@@ -19,6 +19,11 @@ public class PracticeGit2 {
     // removed this method from GIT WEB thisIsCreatedFromIde
 
     public void thisIsCreatedFromWebGitForStashPractice() {
+
+    }
+
+    public void thisIsCreatedForLocalStashPopPractice() {
+
     }
 
     //This changes are from web 
