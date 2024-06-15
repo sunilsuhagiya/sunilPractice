@@ -16,6 +16,5 @@ public class PracticeGit2 {
     public void thisIsCreatedFromWebGit() {
     }
 
-    public void thisIsCreatedFromIde() {
-    }
+    // removed this method from GIT WEB thisIsCreatedFromIde
 }
