@@ -1,4 +1,6 @@
-public class PracticeGit {
+package gitPracticePackage;
+
+public class PracticeGit1 {
 //THIS changes are from web
     public static void main(String[] args) {
         String name = "SUNIL Practice";
@@ -12,5 +14,8 @@ public class PracticeGit {
     }
 
     public void thisIsCreatedFromWebGit() {
+    }
+
+    public void thisIsCreatedFromIde() {
     }
 }
