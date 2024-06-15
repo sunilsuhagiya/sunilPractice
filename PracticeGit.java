@@ -9,4 +9,8 @@ public class PracticeGit {
     public void thisIsFromPracticeBranch() {
         System.out.println("This is from practice branch");
     }
+
+    public void thisIsAlsoFromPracticeBranch() {
+        System.out.println("THIS IS ALSO FROM PRACTICE BRANCH");
+    }
 }
