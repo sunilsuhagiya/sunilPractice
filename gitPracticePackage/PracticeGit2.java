@@ -48,7 +48,7 @@ public class PracticeGit2 {
     }
     public void thisIsCreatedFromWebGit612() {
     }
-    
+
     //From local branch changes
     public void thisIsCreatedFromWebGitForStashPractice11() {
     }
@@ -67,5 +67,5 @@ public class PracticeGit2 {
 
     public void thisIsCreatedFromWebGitForStashPractice16() {
     }
->>>>>>> Stashed changes
+    
 }
