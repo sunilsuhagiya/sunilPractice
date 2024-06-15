@@ -10,4 +10,7 @@ public class PracticeGit {
         // I have added this line for purppppose
         System.out.println("This is from practice branch");
     }
+
+    public void thisIsCreatedFromWebGit() {
+    }
 }
