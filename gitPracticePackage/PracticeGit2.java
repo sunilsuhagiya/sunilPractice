@@ -21,4 +21,7 @@ public class PracticeGit2 {
 
     public void thisIsCreatedFromintellijForMergeConflict() {
     }
+
+    // removed this method from GIT WEB thisIsCreatedFromIde
+
 }
