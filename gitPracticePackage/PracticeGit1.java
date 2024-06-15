@@ -19,5 +19,6 @@ public class PracticeGit1 {
     public void thisIsCreatedFromIde() {
     }
 
-    //Did This changes from web git while my PR was on review!!!
+    public void thisIsCreatedFromConflict1Branch() {
+    }
 }
