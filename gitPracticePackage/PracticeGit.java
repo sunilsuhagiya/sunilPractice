@@ -18,4 +18,7 @@ public class PracticeGit {
 
     public void thisIsCreatedFromIde() {
     }
+
+    public void thisIsCreatedFromWeb1() {
+    }
 }
