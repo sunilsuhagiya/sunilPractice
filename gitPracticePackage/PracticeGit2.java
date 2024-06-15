@@ -18,4 +18,7 @@ public class PracticeGit2 {
 
     public void thisIsCreatedFromIde() {
     }
+
+    public void thisIsCreatedFromintellijForMergeConflict() {
+    }
 }
