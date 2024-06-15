@@ -16,6 +16,12 @@ public class PracticeGit2 {
     public void thisIsCreatedFromWebGit() {
     }
 
+    public void thisIsCreatedFromIde() {
+    }
+
+    public void thisIsCreatedFromintellijForMergeConflict() {
+    }
+
     // removed this method from GIT WEB thisIsCreatedFromIde
 
     public void thisIsCreatedFromWebGitForStashPractice() {
@@ -72,5 +78,4 @@ public class PracticeGit2 {
 
     public void thisIsCreatedFromWebGitForStashPractice16() {
     }
->>>>>>> Stashed changes
 }
