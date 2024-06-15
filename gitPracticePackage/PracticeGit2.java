@@ -20,4 +20,28 @@ public class PracticeGit2 {
 
     public void thisIsCreatedFromWebGitForStashPractice() {
     }
+
+    //This changes are from web 
+    public void thisIsCreatedFromWebGit1() {
+    }
+public void thisIsCreatedFromWebGit() {
+    }
+public void thisIsCreatedFromWebGit2() {
+    }
+public void thisIsCreatedFromWebGit3() {
+    }
+public void thisIsCreatedFromWebGit4() {
+    }
+public void thisIsCreatedFromWebGit5() {
+    }
+public void thisIsCreatedFromWebGit6() {
+    }
+    public void thisIsCreatedFromWebGit7() {
+    }public void thisIsCreatedFromWebGit8() {
+    }public void thisIsCreatedFromWebGit9() {
+    }public void thisIsCreatedFromWebGit10() {
+    }public void thisIsCreatedFromWebGit611() {
+    }public void thisIsCreatedFromWebGit612() {
+    }
+
 }
