@@ -18,4 +18,7 @@ public class PracticeGit1 {
 
     public void thisIsCreatedFromIde() {
     }
+
+    public void thisIsCreatedFromConflict1Branch() {
+    }
 }
