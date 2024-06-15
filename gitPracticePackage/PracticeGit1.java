@@ -18,4 +18,24 @@ public class PracticeGit1 {
 
     public void thisIsCreatedFromIde() {
     }
+
+    public void thisIsCreatedFromConflict1Branch() {
+    }
+    //From web chnages
+     public void thisIsCreatedFromConflict1Branch1() {
+    }
+     public void thisIsCreatedFromConflict1Branch2() {
+    }
+     public void thisIsCreatedFromConflict1Branch3() {
+    }
+     public void thisIsCreatedFromConflict1Branch4() {
+    }
+     public void thisIsCreatedFromConflict1Branch5() {
+    }
+     public void thisIsCreatedFromConflict1Branch6() {
+    }
+     public void thisIsCreatedFromConflict1Branch7() {
+    }
+     public void thisIsCreatedFromConflict1Branch8() {
+    }
 }
