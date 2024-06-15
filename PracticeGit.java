@@ -5,4 +5,8 @@ public class PracticeGit {
         name.getBytes();
         System.out.println("Last word is : " + name);
     }
+
+    public void thisIsFromPracticeBranch() {
+        System.out.println("This is from practice branch");
+    }
 }
