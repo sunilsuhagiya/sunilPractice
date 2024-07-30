@@ -24,8 +24,6 @@ public class PracticeGit2 {
     //This changes are from web 
     public void thisIsCreatedFromWebGit1() {
     }
-public void thisIsCreatedFromWebGit() {
-    }
 public void thisIsCreatedFromWebGit2() {
     }
 public void thisIsCreatedFromWebGit3() {
