@@ -80,3 +80,7 @@ public void thisIsCreatedFromWebGit2() {
     public void thisIsCreatedFromWebGitForStashPractice16() {
     }
 }
+
+/*
+THIS IS FROM INTELLIJ
+ */
