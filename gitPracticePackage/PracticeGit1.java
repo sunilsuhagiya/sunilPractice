@@ -39,3 +39,4 @@ public class PracticeGit1 {
      public void thisIsCreatedFromConflict1Branch8() {
     }
 }
+// This changes are from intellij on 30/07/2024
